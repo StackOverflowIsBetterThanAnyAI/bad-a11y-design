@@ -14,7 +14,7 @@
 - 2x image is wrongfully marked as decorative
 - 2x image has no alt attribute
 - 1x decorative image has no empty alt attribute
-- 6x ul/ol has bad child elements
+- 2x ul/ol has bad child elements
 - 1x form title outside form element
 - 2x input has no label
 - 2x input has no autocomplete
