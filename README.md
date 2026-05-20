@@ -1,2 +1,26 @@
 # bad-a11y-design
-This is a website to test accessibility issues using CypressAxe
+
+- 1x navigation is placed on the very left with no max width parent element
+- 1x wrong lang value
+- 1x part has wrong lang value
+- 1x no title attribute
+- 1x navigation cannot be skipped
+- 1x site has no headings
+- 2x text outside a landmark
+- 11x insufficient color contrast
+- 3x insufficient clickable space
+- 5x button cannot be reached by keyboard
+- 5x button cannot be activated by keyboard
+- 2x image is wrongfully marked as decorative
+- 2x image has no alt attribute
+- 1x decorative image has no empty alt attribute
+- 5x ul/ol has bad child elements
+- 1x form title outside form element
+- 2x input has no label
+- 2x input has no autocomplete
+- 1x textarea has no label
+- 1x bad error message
+- 1x aria label on bad element
+- 1x link has no accessible name
+- 2x adjacent links can be combined
+- 3x link relies on color alone
