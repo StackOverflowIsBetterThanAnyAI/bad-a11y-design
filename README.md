@@ -24,3 +24,5 @@
 - 1x link has no accessible name
 - 2x adjacent links can be combined
 - 3x link relies on color alone
+- 3x insufficient color contrast in hover state
+- 3x insufficient color contrast in focus state
